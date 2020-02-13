@@ -1,0 +1,349 @@
+{
+    "color": {
+        "table_id": [
+            128,
+            128,
+            128
+        ],
+        "accounts": [
+            0,
+            0,
+            0
+        ]
+    },
+    "positions": {
+        "info": "",
+        "lock": [
+            184,
+            140
+        ],
+        "table_id": [
+            0,
+            295,
+            368,
+            18
+        ],
+        "chairs": [
+            {
+                "ready": [
+                    228,
+                    103
+                ],
+                "visible": true,
+                "chair": [
+                    214,
+                    29,
+                    60,
+                    60
+                ],
+                "accounts": [
+                    214,
+                    10,
+                    60,
+                    18
+                ],
+                "draw_style": 18
+            },
+            {
+                "ready": [
+                    257,
+                    129
+                ],
+                "visible": true,
+                "chair": [
+                    292,
+                    108,
+                    60,
+                    60
+                ],
+                "accounts": [
+                    292,
+                    170,
+                    60,
+                    18
+                ],
+                "draw_style": 18
+            },
+            {
+                "ready": [
+                    228,
+                    156
+                ],
+                "visible": true,
+                "chair": [
+                    214,
+                    198,
+                    60,
+                    60
+                ],
+                "accounts": [
+                    214,
+                    260,
+                    60,
+                    18
+                ],
+                "draw_style": 18
+            },
+            {
+                "ready": [
+                    122,
+                    157
+                ],
+                "visible": true,
+                "chair": [
+                    104,
+                    197,
+                    60,
+                    60
+                ],
+                "accounts": [
+                    104,
+                    259,
+                    60,
+                    18
+                ],
+                "draw_style": 18
+            },
+            {
+                "ready": [
+                    94,
+                    127
+                ],
+                "visible": true,
+                "chair": [
+                    19,
+                    103,
+                    60,
+                    60
+                ],
+                "accounts": [
+                    19,
+                    165,
+                    60,
+                    18
+                ],
+                "draw_style": 18
+            },
+            {
+                "ready": [
+                    120,
+                    101
+                ],
+                "visible": true,
+                "chair": [
+                    104,
+                    29,
+                    60,
+                    60
+                ],
+                "accounts": [
+                    104,
+                    10,
+                    60,
+                    18
+                ],
+                "draw_style": 18
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            },
+            {
+                "ready": [
+                    0,
+                    0
+                ],
+                "visible": true,
+                "chair": [
+                    0,
+                    0,
+                    50,
+                    50
+                ],
+                "accounts": [
+                    0,
+                    0,
+                    50,
+                    24
+                ],
+                "draw_style": 34
+            }
+        ]
+    }
+}
