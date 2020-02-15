@@ -1,14 +1,14 @@
 {
     "color": {
-        "accounts": [
-            0,
-            0,
-            0
-        ],
         "table_id": [
             128,
             128,
             128
+        ],
+        "accounts": [
+            0,
+            0,
+            0
         ]
     },
     "positions": {
